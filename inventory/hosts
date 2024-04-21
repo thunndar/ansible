@@ -10,3 +10,11 @@ loki
 odin
 k3sworker1
 k3sworker2
+
+[k3s]
+thor
+loki
+odin
+k3sworker1
+k3sworker2
+
